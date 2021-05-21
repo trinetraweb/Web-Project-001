@@ -1,0 +1,11 @@
+<?PHP
+?>
+  <HTML>
+  <HEAD>
+  <TITLE>MY HOME PAGE</TITLE>
+  </HEAD>
+  <BODY>
+  <H1 STYLE="BACKGROUND:BLUE, COLOR:RED"> HEADING 1</H1>
+  
+  </BODY>
+  </HTML>
